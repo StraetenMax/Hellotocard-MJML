@@ -20,14 +20,17 @@
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
   <mj-body background-color="#f2f2f2">      
-    <mj-section background-color="#ffffff">
+    <mj-section padding="10px 0 20px 0">
       <mj-column>
-        <mj-text align="center" font-size="32px" font-style="italic" font-family="serif" padding-top="40px" padding-bottom="40px">The Pizza Times</mj-text>
+        <mj-text align="center" color="#9b9b9b" font-size="11px">Writing A Good Headline For Your Advertissement</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-url="https://demo.tutorialzine.com/2017/02/images/header-image.jpg" background-size="cover" background-repeat="no-repeat">
-      <mj-column>
-        <mj-spacer height="300px"></mj-spacer>
+    <mj-section padding="20px 20px 0 20px" background-color="#ffffff">
+      <mj-column width="35%">
+        <mj-text align="left" font-size="20px" font-weight="500">//BR&amp;AND </mj-text>
+      </mj-column>
+      <mj-column width="65%">
+        <mj-text align="right" font-size="11px"><a href="#" style="color:#000000;text-decoration:none;text-transform:uppercase;">home &nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;</a><a href="#" style="color:#000000;text-decoration:none;text-transform:uppercase;">service &nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;</a><a href="#" style="color:#000000;text-decoration:none;text-transform:uppercase;">third</a></mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
