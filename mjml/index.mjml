@@ -48,6 +48,13 @@
         <mj-text align="center" padding-top="10px" font-weight="500" padding="0px" text-transform="capitalize">a right media mix can make the difference.</mj-text>
       </mj-column>
     </mj-section>
+    <mj-section background-url="http://nimus.de/share/tpl-card/bg-jpg" vertical-align="middle" background-size="cover" background-repeat="no-repeat">
+      <mj-column width="100%">
+        <mj-image src="http://nimus.de/share/tpl-card/lineshadow.png" alt="" align="center" border="none" padding="0px"/>
+        <mj-text align="center" padding="50px 40px 0 40px" font-weight="300">Marketers/advertisers usually focus their efforts on the people responsible for making the purchase. In mamy cases, this is an effective approach but in other cases it can make for a totally useless marketing campaign.</mj-text>
+        <mj-button align="center" background-color="#5FA91D" color="#ffffff" border-radius="2px" href="#" inner-paddin="15px 30px" padding-bottom="100px" padding-top="20px">CALL TO ACTION</mj-button>
+      </mj-column>
+    </mj-section>
     <mj-section padding="10px 0 20px 0">
       <mj-column>
         <mj-text align="center" color="#9b9b9b" font-size="11px"><a href="#" style="color:#9b9b9b;">Unsubscribe</a> from this newsletter<br/>52 Edison Court Suite 259 / East Aidabury / Cambodi<br/> <a href="#" style="color:#9b9b9b;text-decoration:none;">Made by Sevenhaustein.de</a>   </mj-text>
